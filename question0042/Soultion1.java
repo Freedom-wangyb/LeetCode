@@ -31,7 +31,6 @@ public class Soultion1 {
                 right--;
             }
         }
-
         return result;
     }
 }
