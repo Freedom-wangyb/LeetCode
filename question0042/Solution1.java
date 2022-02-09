@@ -6,7 +6,7 @@ package question0042;
  * @author wangyb
  * @since 2020/1/7
  */
-public class Soultion1 {
+public class Solution1 {
 
     public int trap(int[] height) {
         int left = 0;
