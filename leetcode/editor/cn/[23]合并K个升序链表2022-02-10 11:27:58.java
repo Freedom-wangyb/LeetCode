@@ -42,7 +42,7 @@
 // lists[i] 按 升序 排列 
 // lists[i].length 的总和不超过 10^4 
 // 
-// Related Topics 链表 分治 堆（优先队列） 归并排序 👍 1745 👎 0
+// Related Topics 链表 分治 堆（优先队列） 归并排序 👍 1746 👎 0
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
@@ -52,11 +52,11 @@ import java.util.PriorityQueue;
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
